@@ -100,7 +100,6 @@ ISAPI/CGI 应用程序授权失败。
 锁定的错误。
 
 ## 5XX系列
-
 * 500 Internal Server Error：  
 请求未完成。服务器遇到不可预知的情况。
 * 501 Not Implemented：  
